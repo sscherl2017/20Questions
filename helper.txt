@@ -1,0 +1,1 @@
+Is it alive?(Is it edible?(Does it have wheels?(Can you call people on it?(Can you write with it?(rock,pen),phone),Can it fly?(car,plane)),Is it healthy?(cheeto,Is it yellow?(Is it sour?(apple,pickle),banana))),Is it a pet?(Does it have a long neck?(Can it speak?(Does it have a horn?(horse,rhino),human),giraffe),Does it purr?(Does it bark?(fish,dog),cat)))
