@@ -23,7 +23,6 @@ public class TwentyQuestions
 			tree = new BinaryTree<String>(read().substring(0, read().indexOf("(")));
 			createTree(read().substring(read().indexOf("(") + 1, read().length() - 1), tree);
 		}
-		System.out.println(read().equals(tree.toString()));
 		boolean done = false;
 		Scanner keyboard = new Scanner(System.in).useDelimiter("\\n");
 		BinaryTree<String> curr = tree;
